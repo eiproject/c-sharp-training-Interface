@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tuEgZvzKJQn5aEKtqD0AwGGWKHHTgPBmAF6BT8dtf8Zor+3nijh8qoHIF8sFZBQRMZyatx3DYJmVyistSAdyfQ==",
+  "dgSpecHash": "v6GsVF29pin7fPRKBZQYpppgp3J86n2p/FrcZ41AJtu1jBPCGAc9xWDAkGJLnMyFTPGc9VS2iVic/9Vc31PcPw==",
   "success": true,
-  "projectFilePath": "C:\\Lab Formulatrix\\TrainingFullInternal\\Main Program\\Main Program.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Lab Formulatrix\\TrainingFullInterface\\Main Program\\Main Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosma\\.nuget\\packages\\dotliquid\\2.1.457\\dotliquid.2.1.457.nupkg.sha512"
+  ],
   "logs": []
 }

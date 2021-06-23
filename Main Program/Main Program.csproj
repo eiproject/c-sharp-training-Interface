@@ -6,4 +6,8 @@
     <RootNamespace>Main_Program</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DotLiquid" Version="2.1.457" />
+  </ItemGroup>
+
 </Project>

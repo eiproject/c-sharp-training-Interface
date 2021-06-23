@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lab Formulatrix\\TrainingFullInternal\\Main Program\\Main Program.csproj": {}
+    "C:\\Lab Formulatrix\\TrainingFullInterface\\Main Program\\Main Program.csproj": {}
   },
   "projects": {
-    "C:\\Lab Formulatrix\\TrainingFullInternal\\Main Program\\Main Program.csproj": {
+    "C:\\Lab Formulatrix\\TrainingFullInterface\\Main Program\\Main Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lab Formulatrix\\TrainingFullInternal\\Main Program\\Main Program.csproj",
+        "projectUniqueName": "C:\\Lab Formulatrix\\TrainingFullInterface\\Main Program\\Main Program.csproj",
         "projectName": "Main Program",
-        "projectPath": "C:\\Lab Formulatrix\\TrainingFullInternal\\Main Program\\Main Program.csproj",
+        "projectPath": "C:\\Lab Formulatrix\\TrainingFullInterface\\Main Program\\Main Program.csproj",
         "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
-        "outputPath": "C:\\Lab Formulatrix\\TrainingFullInternal\\Main Program\\obj\\",
+        "outputPath": "C:\\Lab Formulatrix\\TrainingFullInterface\\Main Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.1.457, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

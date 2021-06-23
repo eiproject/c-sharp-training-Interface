@@ -1,0 +1,16 @@
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\Main Program.exe
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\Main Program.deps.json
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\Main Program.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\Main Program.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\Main Program.dll
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\Main Program.pdb
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\DotLiquid.dll
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\bin\Debug\netcoreapp3.1\it\DotLiquid.resources.dll
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.csproj.CopyComplete
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.dll
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.pdb
+C:\Lab Formulatrix\TrainingFullInterface\Main Program\obj\Debug\netcoreapp3.1\Main Program.genruntimeconfig.cache
